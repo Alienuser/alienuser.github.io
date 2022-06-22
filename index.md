@@ -21,11 +21,16 @@ Hier eine Liste aller meiner bisherigen Publikationen:
 ## Zertifikate
 [Alle](https://www.credential.net/profile/larshelmuthprobst/wallet) Zertifikate anschauen.
 
-[![Architect Certification](assets/images/certificate_architect.png)](https://www.credly.com/badges/69bdace3-3da9-42d1-8112-e722fe1b0c7d/public_url)
-[![GCP Certification](assets/images/certificate_gcp.png)](https://www.credential.net/0ffb0a72-530e-4934-9cc0-3e027752fa11)
+[![Certificate](assets/images/certificates/architect.png)](https://www.credly.com/badges/69bdace3-3da9-42d1-8112-e722fe1b0c7d/public_url)
+[![Certificate](assets/images/certificates/gcp.png)](https://www.credential.net/0ffb0a72-530e-4934-9cc0-3e027752fa11)
 
 ## Badges
 [Alle](https://www.youracclaim.com/users/lars-helmuth-probst/badges) Badges anschauen.
+
+[![Badge](assets/images/badges/security.png)](https://www.credly.com/earner/earned/badge/ef61fea9-0567-44d2-ab48-25f4062227b9)
+[![Badge](assets/images/badges/security.png)](https://www.credly.com/earner/earned/badge/ef61fea9-0567-44d2-ab48-25f4062227b9)
+[![Badge](assets/images/badges/security.png)](https://www.credly.com/earner/earned/badge/ef61fea9-0567-44d2-ab48-25f4062227b9)
+[![BAdge](assets/images/badges/security.png)](https://www.credly.com/earner/earned/badge/ef61fea9-0567-44d2-ab48-25f4062227b9)
 
 <!--
 # Lebenslauf
