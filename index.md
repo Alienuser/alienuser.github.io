@@ -24,15 +24,10 @@ Hier eine Liste aller meiner bisherigen Publikationen:
 [![Architect Certification](assets/images/certificate_architect.png)](https://www.credly.com/badges/69bdace3-3da9-42d1-8112-e722fe1b0c7d/public_url)
 [![GCP Certification](assets/images/certificate_gcp.png)](https://www.credential.net/0ffb0a72-530e-4934-9cc0-3e027752fa11)
 
-<!--
-<p align="center">
-  <a href="https://www.credly.com/badges/69bdace3-3da9-42d1-8112-e722fe1b0c7d/public_url" target="_blank"><img src="https://images.credly.com/size/680x680/images/be7f90cd-f3ac-4e0d-82c4-0aa5e78e7918/Architect-Experienced.png" /></a>&nbsp;
-  <a href="https://www.credential.net/0ffb0a72-530e-4934-9cc0-3e027752fa11" target="_blank"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/13780249" /></a>
-</p>
-
 ## Badges
 [Alle](https://www.youracclaim.com/users/lars-helmuth-probst/badges) Badges anschauen.
 
+<!--
 # Lebenslauf
 Hier kommen die
 
