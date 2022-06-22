@@ -21,8 +21,8 @@ Hier eine Liste aller meiner bisherigen Publikationen:
 ## Zertifikate
 [Alle](https://www.credential.net/profile/larshelmuthprobst/wallet) Zertifikate anschauen.
 
-![Architect Certification](assets/images/certificate_architect.png)
-![GCP Certification](assets/images/certificate_gcp.png)
+[![Architect Certification](assets/images/certificate_architect.png)](https://www.credly.com/badges/69bdace3-3da9-42d1-8112-e722fe1b0c7d/public_url)
+[![GCP Certification](assets/images/certificate_gcp.png)](https://www.credential.net/0ffb0a72-530e-4934-9cc0-3e027752fa11)
 
 <!--
 <p align="center">
