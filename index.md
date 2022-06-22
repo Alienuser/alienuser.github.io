@@ -11,8 +11,8 @@ clients in various projects on cloud native projects primarily running on Google
 > *Albert Einstein*
 
 ## Arbeit
-- 👨‍💻 Some projects are available on [GitHub](https://github.com/Alienuser?tab=repositories)
-- 💬 Ask me about ****cloud stuff****
+- 👨‍💻 Einige Projekte sind auf [GitHub](https://github.com/Alienuser?tab=repositories)
+- 💬 Fragt mich alles zum Thema **cloud**
 
 ## Publikationen
 Hier eine Liste aller meiner bisherigen Publikationen:
