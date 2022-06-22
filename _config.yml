@@ -1,1 +1,21 @@
+# Configuration
+baseurl: ""
+url: "https://larsprobst.dev"
+domain: "larsprobst.dev"
+lang: "de"
 theme: jekyll-theme-architect
+
+# Settings
+title: "Lars Helmuth Probst"
+email: "lars@famprobst.de"
+description: "Herzlich Willkommen auf meiner privaten Webseite."
+
+# Download
+show_downloads: "true"
+download_url: "assets/downloads/lebenslauf.pdf"
+
+# Social Media
+linkedin_username: "larshprobst"
+xing_username: "LarsHelmuth_Probst"
+twitter_username: "LarsHProbst"
+github_username:  "Alienuser"
