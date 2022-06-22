@@ -10,6 +10,15 @@ clients in various projects on cloud native projects primarily running on Google
 >
 > *Albert Einstein*
 
+<!--
+# Lebenslauf
+Das kommt noch
+-->
+
+# Work
+- 👨‍💻 Some projects are available on [GitHub](https://github.com/Alienuser?tab=repositories)
+- 💬 Ask me about ****cloud stuff****
+
 ## Publikationen
 Hier eine Liste aller meiner bisherigen Publikationen:
 
@@ -31,11 +40,3 @@ Hier eine Liste aller meiner bisherigen Publikationen:
 [![Badge](assets/images/badges/teacher.png)](https://www.credly.com/earner/earned/badge/02f41832-d127-494c-afd2-71669334e033)
 [![Badge](assets/images/badges/speaker.png)](https://www.credly.com/earner/earned/badge/6c4579ce-1640-4210-bb63-3e4b82407fae)
 [![BAdge](assets/images/badges/mentor.png)](https://www.credly.com/earner/earned/badge/9fb48397-cb26-48b8-a4ce-8467e6eb99bc)
-
-<!--
-# Lebenslauf
-Hier kommen die
-
-# Portfolio
-Hier kommen die
--->
