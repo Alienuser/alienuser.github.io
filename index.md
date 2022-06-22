@@ -6,16 +6,11 @@ I’m an IT-Architect [@IBM](https://www.ibm.com/us-en) based in Ehningen. Respo
 clients in various projects on cloud native projects primarily running on Google Cloud, Azure and/or Red Hat OpenShift.
 
 # Über mich
-> „Scientists investigate that which already is; engineers create that which has never been.“
+> „Scientists investigate that which already is; <br> engineers create that which has never been.“
 >
 > *Albert Einstein*
 
-<!--
-# Lebenslauf
-Das kommt noch
--->
-
-# Work
+## Arbeit
 - 👨‍💻 Some projects are available on [GitHub](https://github.com/Alienuser?tab=repositories)
 - 💬 Ask me about ****cloud stuff****
 
