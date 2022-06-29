@@ -10,11 +10,11 @@ clients in various projects on cloud native projects primarily running on Google
 >
 > *Albert Einstein*
 
-## Arbeit
+# Arbeit
 - 👨‍💻 Einige Projekte sind auf [GitHub](https://github.com/Alienuser?tab=repositories)
 - 💬 Fragt mich alles zum Thema **cloud**
 
-## Publikationen
+# Publikationen
 Hier eine Liste aller meiner bisherigen Publikationen:
 
 * **IT-Innovationen** - *SSN: 1869-6457, BAND 22, SEITE 99 BIS 101* - [Link](https://www.hs-esslingen.de/fileadmin/media/Fakultaeten/it/SERVICE/IT-Innovationen/IT-Innovationen_Band22_WS1819.pdf) zur Veröffentlichung.
@@ -22,13 +22,13 @@ Hier eine Liste aller meiner bisherigen Publikationen:
 * **A2A Smart World Symposium** - *21.06.2018* - [Link](https://www.akka-digital.com/unternehmen/termine-und-messen/a2a-2018.html) zur Veröffentlichung.
 * **IT-Innovationen** - *SSN: 1869-6457, BAND 19, SEITE 80 BIS 82* - [Link](https://www.hs-esslingen.de/fileadmin/media/Fakultaeten/it/SERVICE/IT-Innovationen/IT-Innovationen_Band19_SS17.pdf) zur Veröffentlichung.
 
-## Zertifikate
+# Zertifikate
 [Alle](https://www.credential.net/profile/larshelmuthprobst/wallet) Zertifikate anschauen.
 
 [![Certificate](assets/images/certificates/architect.png)](https://www.credly.com/badges/69bdace3-3da9-42d1-8112-e722fe1b0c7d/public_url)
 [![Certificate](assets/images/certificates/gcp.png)](https://www.credential.net/0ffb0a72-530e-4934-9cc0-3e027752fa11)
 
-## Badges
+# Badges
 [Alle](https://www.youracclaim.com/users/lars-helmuth-probst/badges) Badges anschauen.
 
 [![Badge](assets/images/badges/security.png)](https://www.credly.com/earner/earned/badge/ef61fea9-0567-44d2-ab48-25f4062227b9)
