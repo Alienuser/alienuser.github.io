@@ -32,7 +32,7 @@ Hier eine Liste aller meiner bisherigen Publikationen:
 [Alle](https://www.youracclaim.com/users/lars-helmuth-probst/badges) Badges anschauen.
 
 [![Badge](assets/images/badges/automotive-silver.png)](https://www.credly.com/badges/da0c22c4-2534-45cb-bd11-79e46e3cbf52)
-[![Badge](assets/images/badges/security.png)](https://www.credly.com/earner/earned/badge/ef61fea9-0567-44d2-ab48-25f4062227b9)
-[![Badge](assets/images/badges/teacher.png)](https://www.credly.com/earner/earned/badge/02f41832-d127-494c-afd2-71669334e033)
-[![Badge](assets/images/badges/speaker.png)](https://www.credly.com/earner/earned/badge/6c4579ce-1640-4210-bb63-3e4b82407fae)
-[![BAdge](assets/images/badges/mentor.png)](https://www.credly.com/earner/earned/badge/9fb48397-cb26-48b8-a4ce-8467e6eb99bc)
+[![Badge](assets/images/badges/security.png)](https://www.credly.com/badges/ef61fea9-0567-44d2-ab48-25f4062227b9)
+[![Badge](assets/images/badges/teacher.png)](https://www.credly.com/badges/02f41832-d127-494c-afd2-71669334e033)
+[![Badge](assets/images/badges/speaker.png)](https://www.credly.com/badges/6c4579ce-1640-4210-bb63-3e4b82407fae)
+[![BAdge](assets/images/badges/mentor.png)](https://www.credly.com/badges/9fb48397-cb26-48b8-a4ce-8467e6eb99bc)
