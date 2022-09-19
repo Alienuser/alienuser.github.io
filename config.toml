@@ -1,0 +1,26 @@
+baseURL = 'https://larsprobst.dev'
+languageCode = 'de-de'
+title = 'Lars Helmuth Probst'
+theme = "hello-friend-ng"
+
+[params]
+    homeSubtitle = "Herzlich Willkommen auf meiner privaten Webseite."
+
+[author]
+    name = "Lars Helmuth Probst"
+
+[params.logo]
+    logoMark     = ">"
+    logoText     = "$ cd /home/"
+    logoHomeLink = "/"
+    # logoCursorColor    = "#67a2c9"
+    # logoCursorAnimate  = "2s"
+
+[params.footer]
+    trademark = true
+    rss = false
+    copyright = false
+    author = true
+
+    topText = []
+    bottomText = []
