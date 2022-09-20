@@ -1,10 +1,44 @@
+# Basic configuration
 baseURL = 'https://larsprobst.dev'
-languageCode = 'de-de'
 title = 'Lars Helmuth Probst'
 theme = "hello-friend-ng"
 
+# Additional configuration
+PygmentsCodeFences = true
+PygmentsStyle = "monokai"
+paginate = 10
+copyright = "Lars Helmuth Probst"
+googleAnalytics = ""
+
+# Hugo configuration
+archetypeDir = "archetypes"
+contentDir   = "content"
+dataDir      = "data"
+layoutDir    = "layouts"
+publishDir   = "docs"
+buildDrafts  = false
+buildFuture  = false
+buildExpired = false
+canonifyURLs = true
+enableRobotsTXT = true
+enableGitInfo   = true
+enableEmoji     = true
+enableMissingTranslationPlaceholders = false
+disableRSS     = true
+disableSitemap = false
+disable404     = false
+disableHugoGeneratorInject = false
+
+[permalinks]
+    posts = "/posts/:title/"
+
 [params]
-    homeSubtitle = "Herzlich Willkommen auf meiner privaten Webseite."
+    homeSubtitle = "Welcome to my private website."
+    enableThemeToggle = true
+    enableGlobalLanguageMenu = false
+    customCSS = []
+    customJS  = []
+    # backgroundImage = "images/background.jpg"
 
 [author]
     name = "Lars Helmuth Probst"
@@ -19,8 +53,64 @@ theme = "hello-friend-ng"
 [params.footer]
     trademark = true
     rss = false
-    copyright = false
-    author = true
-
+    copyright = true
+    author = false
     topText = []
     bottomText = []
+
+[params.favicon.color]
+    mask = "#1b1c1d"
+    msapplication = "#1b1c1d"
+    theme = "#1b1c1d"
+
+[params.portrait]
+    path     = "/images/larshprobst.webp"
+    alt      = "Portrait"
+    maxWidth = "250px"
+
+[[params.social]]
+    name = "email"
+    url  = "mailto:lars@famprobst.de"
+
+[[params.social]]
+    name = "linkedin"
+    url  = "https://www.linkedin.com/in/larshprobst"
+
+[[params.social]]
+    name = "xing"
+    url  = "https://www.xing.com/profile/LarsHelmuth_Probst"
+
+[[params.social]]
+    name = "github"
+    url  = "https://github.com/Alienuser"
+
+[[params.social]]
+    name = "twitter"
+    url  = "https://twitter.com/LarsHProbst"
+
+[[params.social]]
+    name = "docker"
+    url  = "https://hub.docker.com/u/alienuser"
+
+[[params.social]]
+    name = "reddit"
+    url  = "https://www.reddit.com/user/LarsHProbst"
+
+[menu]
+    [[menu.main]]
+        identifier = "about"
+        name       = "About"
+        url        = "about/"
+        weight     = 1
+
+    [[menu.main]]
+        identifier = "work"
+        name       = "Work"
+        url        = "work/"
+        weight     = 2
+
+    #[[menu.main]]
+    #    identifier = "certifications"
+    #    name       = "Certifications"
+    #    url        = "certifications/"
+    #    weight     = 3
