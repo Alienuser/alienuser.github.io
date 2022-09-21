@@ -5,8 +5,8 @@ draft: false
 ---
 
 - 👨‍💻 You can find some projects on [GitHub](https://github.com/Alienuser?tab=repositories)
-- 💬 You can ask me about **cloud**
 - 👉 You can find my profile on [LinkedIn](https://www.linkedin.com/in/larshprobst)
+- 💬 You can ask me about **cloud**
 
 ## Experience
 
@@ -23,11 +23,13 @@ draft: false
 
 **Hochschule Esslingen - University of Applied Sciences** (2017-2019)
 - Master of Science - Informatics
-- Thesis: Artificial intelligence for parameter optimization in manufacturing
+- Thesis: Artificial intelligence for parameter optimization in manufacturing.
+- see thesis on [GitHub](https://github.com/Alienuser/Masterthesis)
 
 **Hochschule Esslingen - University of Applied Sciences** (2012-2017)
 - Bachelor of Engineering - Informatics
 - Thesis: Design of a hybrid cloud architecture, implementation and use through prototypical application with Bluemix and z Systems.
+- see thesis on [GitHub](https://github.com/Alienuser/Bachelorthesis)
 
 **IT.Schule Stuttgart** (2008-2011)
 - Abitur - Informatics
@@ -36,6 +38,8 @@ draft: false
 ## Skills
 **Programming:** Java, Kotlin, Flutter, TypeScript, SCSS / CSS
 
-**Tools:** Terraform, Kubernetes, Docker
+**Tools:** Terraform, Kubernetes, Docker, Git
+
+**Methodology:** Agile, Scrum, DevOps
 
 **Cloud:** Google Cloud, Azure, AWS, RedHat OpenShift
