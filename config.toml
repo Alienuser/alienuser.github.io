@@ -8,7 +8,7 @@ PygmentsCodeFences = true
 PygmentsStyle = "monokai"
 paginate = 10
 copyright = "Lars Helmuth Probst"
-googleAnalytics = ""
+googleAnalytics = "G-0ZPYLX9NWB"
 
 # Hugo configuration
 archetypeDir = "archetypes"
