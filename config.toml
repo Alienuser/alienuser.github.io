@@ -1,5 +1,5 @@
 # Basic configuration
-baseURL = 'https://larsprobst.dev'
+baseURL = 'http://alienuser.github.io/'
 title = 'Lars Helmuth Probst'
 theme = "hello-friend-ng"
 
@@ -15,7 +15,7 @@ archetypeDir = "archetypes"
 contentDir   = "content"
 dataDir      = "data"
 layoutDir    = "layouts"
-publishDir   = "docs"
+publishDir   = "public"
 buildDrafts  = false
 buildFuture  = false
 buildExpired = false
