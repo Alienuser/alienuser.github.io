@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Lars Helmuth Probst</title>
-    <link>http://alienuser.github.io/tags/</link>
+    <link>https://larsprobst.dev/tags/</link>
     <description>Recent content in Tags on Lars Helmuth Probst</description>
     <generator>Hugo -- gohugo.io</generator>
-    <copyright>Lars Helmuth Probst</copyright><atom:link href="http://alienuser.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Lars Helmuth Probst</copyright><atom:link href="https://larsprobst.dev/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
