@@ -1,5 +1,5 @@
 # Basic configuration
-baseURL = 'http://alienuser.github.io/'
+baseURL = "https://larsprobst.dev"
 title = 'Lars Helmuth Probst'
 theme = "hello-friend-ng"
 
