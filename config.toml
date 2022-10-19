@@ -39,6 +39,7 @@ disableHugoGeneratorInject = false
     customCSS = []
     customJS  = []
     gitUrl = "https://github.com/Alienuser/alienuser.github.io/commit/"
+    themeColor = "#1b1c1d"
     # backgroundImage = "images/background.jpg"
 
 [author]
