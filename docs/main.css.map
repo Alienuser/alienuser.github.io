@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/Users/larsprobst/Develop/Privat/alienuser.github.io",
+	"sourceRoot": "/Users/larshprobst/Develop/Privat/alienuser.github.io",
 	"sources": [
 		"themes/hello-friend-ng/assets/scss/main.scss",
 		"themes/hello-friend-ng/assets/scss/_normalize.scss",

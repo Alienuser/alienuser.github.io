@@ -10,7 +10,10 @@ draft: false
 
 ## Experience
 
-**Senior Cloud Application Consultant, Advisory Architect** (2021-present, IBM)
+**Advisory Architect** (2023-present, IBM)
+- I am a cloud-native enthusiast fascinated by DevSecOps and modern software engineering practices. Besides hands-on delivery, I lead multiple global delivery projects for global systems across the major hyperscalers. Thereby, skill and people development, as well as software-driven change management, are key aspects of the work I do deliver with passion. 
+
+**Senior Cloud Application Consultant, Advisory Architect** (2021-present, 2022)
 - Being responsible for IT delivery projects from technical site. Consulting and advising clients in various projects on cloud native projects primarily running on Google Cloud, Azure and/or Red Hat OpenShift.
 
 **Lecturer** (2020-present, Duale Hochschule Baden-Württemberg)
