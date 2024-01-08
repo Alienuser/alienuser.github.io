@@ -5,42 +5,29 @@
     <link>https://larsprobst.dev/</link>
     <description>Recent content on Lars Helmuth Probst</description>
     <generator>Hugo -- gohugo.io</generator>
-    <copyright>Lars Helmuth Probst</copyright><atom:link href="https://larsprobst.dev/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <copyright>Lars Helmuth Probst</copyright>
+    <atom:link href="https://larsprobst.dev/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Certifications</title>
       <link>https://larsprobst.dev/certifications/</link>
       <pubDate>Tue, 20 Sep 2022 09:38:27 +0200</pubDate>
-      
       <guid>https://larsprobst.dev/certifications/</guid>
-      <description>Here you can find all my publications, certifications and badges.
-Publications IT-Innovationen - SSN: 1869-6457, volume 22, page 99 to 101
-Link to publication. Mensch und Computer 2018 - 2018
-Link to publication. A2A Smart World Symposium - 21.06.2018
-Link to publication. IT-Innovationen - SSN: 1869-6457, volume 19, page 80 to 82
-Link to publication. Certificates Here you can find all my certifications on Accredible.
-Badges Here you can find all my badges on Credly.</description>
+      <description>Here you can find all my publications, certifications and badges.&#xA;Publications IT-Innovationen - SSN: 1869-6457, volume 22, page 99 to 101&#xA;Link to publication. Mensch und Computer 2018 - 2018&#xA;Link to publication. A2A Smart World Symposium - 21.06.2018&#xA;Link to publication. IT-Innovationen - SSN: 1869-6457, volume 19, page 80 to 82&#xA;Link to publication. Certificates Here you can find all my certifications on Accredible.&#xA;Badges Here you can find all my badges on Credly.</description>
     </item>
-    
     <item>
       <title>Work</title>
       <link>https://larsprobst.dev/work/</link>
       <pubDate>Tue, 20 Sep 2022 09:36:54 +0200</pubDate>
-      
       <guid>https://larsprobst.dev/work/</guid>
-      <description>👨‍💻 You can find some projects on GitHub 👉 You can find my profile on LinkedIn 💬 You can ask me about cloud Experience Advisory Architect (2023-present, IBM)
-I am a cloud-native enthusiast fascinated by DevSecOps and modern software engineering practices. Besides hands-on delivery, I lead multiple global delivery projects for global systems across the major hyperscalers. Thereby, skill and people development, as well as software-driven change management, are key aspects of the work I do deliver with passion.</description>
+      <description>👨‍💻 You can find some projects on GitHub 👉 You can find my profile on LinkedIn 💬 You can ask me about cloud Experience Advisory Architect (2023-present, IBM)&#xA;I am a cloud-native enthusiast fascinated by DevSecOps and modern software engineering practices. Besides hands-on delivery, I lead multiple global delivery projects for global systems across the major hyperscalers. Thereby, skill and people development, as well as software-driven change management, are key aspects of the work I do deliver with passion.</description>
     </item>
-    
     <item>
       <title>Hello 👋</title>
       <link>https://larsprobst.dev/about/</link>
       <pubDate>Tue, 20 Sep 2022 07:56:41 +0200</pubDate>
-      
       <guid>https://larsprobst.dev/about/</guid>
-      <description>My name is Lars Helmuth Probst and I’m an IT-Architect @IBM based in Ehningen. I&amp;rsquo;m Responsible for IT delivery projects from technical site. Consulting and advising clients in various projects on cloud native projects primarily running on Google Cloud, Azure and/or Red Hat OpenShift.
-„Scientists investigate that which already is; engineers create that which has never been.“
-Albert Einstein</description>
+      <description>My name is Lars Helmuth Probst and I’m an IT-Architect @IBM based in Ehningen. I&amp;rsquo;m Responsible for IT delivery projects from technical site. Consulting and advising clients in various projects on cloud native projects primarily running on Google Cloud, Azure and/or Red Hat OpenShift.&#xA;„Scientists investigate that which already is; engineers create that which has never been.“&#xA;Albert Einstein</description>
     </item>
-    
   </channel>
 </rss>
