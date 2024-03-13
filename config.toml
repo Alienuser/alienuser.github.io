@@ -1,6 +1,6 @@
 # Basic configuration
 baseURL = "https://larsprobst.dev"
-title = 'Lars Helmuth Probst'
+title = "Lars Helmuth Probst"
 theme = "hello-friend-ng"
 
 # Additional configuration
@@ -42,7 +42,7 @@ disableHugoGeneratorInject = false
     themeColor = "#1b1c1d"
     # backgroundImage = "images/background.jpg"
 
-[author]
+[params.author]
     name = "Lars Helmuth Probst"
 
 [params.logo]
@@ -53,7 +53,7 @@ disableHugoGeneratorInject = false
     # logoCursorAnimate  = "2s"
 
 [params.footer]
-    trademark = true
+    trademark = 2024
     rss = false
     copyright = true
     author = false
