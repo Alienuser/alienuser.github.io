@@ -4,9 +4,10 @@ date: 2022-09-20T09:36:54+02:00
 draft: false
 ---
 
-- 👨‍💻 You can find some projects on [GitHub](https://github.com/Alienuser?tab=repositories)
-- 👉 You can find my profile on [LinkedIn](https://www.linkedin.com/in/larshprobst)
-- 💬 You can ask me about **cloud**
+- 👨‍💻 Some projects are available on [GitHub](https://github.com/Alienuser?tab=repositories)
+- ☁️ My Page is available [here](https://larsprobst.dev)
+- 💬 Ask me about ****cloud stuff****
+- 📫 Reach me via [X](https://twitter.com/LarsHProbst), [email](mailto:lars@famprobst.de) or [LinkedIn](https://www.linkedin.com/in/larshprobst)
 
 ## Experience
 
@@ -43,6 +44,6 @@ draft: false
 
 **Tools:** Terraform, Kubernetes, Docker, Git
 
-**Methodology:** Agile, Scrum, DevOps
+**Methodology:** Agile, Scrum, DevSecOps
 
 **Cloud:** Google Cloud, Azure, AWS, RedHat OpenShift
