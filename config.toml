@@ -67,7 +67,7 @@ disableHugoGeneratorInject = false
 
 [params.portrait]
     path     = "/images/larshprobst.webp"
-    alt      = "Portrait"
+    alt      = "Portrait from Lars Helmuth Probst"
     maxWidth = "250px"
 
 [[params.social]]
@@ -87,7 +87,7 @@ disableHugoGeneratorInject = false
     url  = "https://github.com/Alienuser"
 
 [[params.social]]
-    name = "twitter"
+    name = "X"
     url  = "https://twitter.com/LarsHProbst"
 
 [[params.social]]

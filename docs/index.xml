@@ -4,7 +4,7 @@
     <title>Lars Helmuth Probst</title>
     <link>https://larsprobst.dev/</link>
     <description>Recent content on Lars Helmuth Probst</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
     <copyright>Lars Helmuth Probst</copyright>
     <lastBuildDate>Tue, 20 Sep 2022 09:38:27 +0200</lastBuildDate>
@@ -21,14 +21,14 @@
       <link>https://larsprobst.dev/work/</link>
       <pubDate>Tue, 20 Sep 2022 09:36:54 +0200</pubDate>
       <guid>https://larsprobst.dev/work/</guid>
-      <description>👨‍💻 You can find some projects on GitHub 👉 You can find my profile on LinkedIn 💬 You can ask me about cloud Experience Advisory Architect (2023-present, IBM)&#xA;I am a cloud-native enthusiast fascinated by DevSecOps and modern software engineering practices. Besides hands-on delivery, I lead multiple global delivery projects for global systems across the major hyperscalers. Thereby, skill and people development, as well as software-driven change management, are key aspects of the work I do deliver with passion.</description>
+      <description>👨‍💻 Some projects are available on GitHub ☁️ My Page is available here 💬 Ask me about cloud stuff 📫 Reach me via X, email or LinkedIn Experience Advisory Architect (2023-present, IBM)&#xA;I am a cloud-native enthusiast fascinated by DevSecOps and modern software engineering practices. Besides hands-on delivery, I lead multiple global delivery projects for global systems across the major hyperscalers. Thereby, skill and people development, as well as software-driven change management, are key aspects of the work I do deliver with passion.</description>
     </item>
     <item>
       <title>Hello 👋</title>
       <link>https://larsprobst.dev/about/</link>
       <pubDate>Tue, 20 Sep 2022 07:56:41 +0200</pubDate>
       <guid>https://larsprobst.dev/about/</guid>
-      <description>My name is Lars Helmuth Probst and I’m an IT-Architect @IBM based in Ehningen. I&amp;rsquo;m Responsible for IT delivery projects from technical site. Consulting and advising clients in various projects on cloud native projects primarily running on Google Cloud, Azure and/or Red Hat OpenShift.&#xA;„Scientists investigate that which already is; engineers create that which has never been.“&#xA;Albert Einstein</description>
+      <description>My name is Lars Helmuth Probst and I’m an IT-Architect @IBM based in 🏔Ehningen. I am a cloud-native enthusiast fascinated by DevSecOps and modern software engineering practices. Besides hands-on delivery, I lead multiple global delivery projects for global systems across the major hyperscalers. Thereby, skill and people development, as well as software-driven change management, are key aspects of the work I do deliver with passion.&#xA;„Scientists investigate that which already is; engineers create that which has never been.</description>
     </item>
   </channel>
 </rss>
