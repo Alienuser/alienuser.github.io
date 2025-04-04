@@ -6,7 +6,6 @@ theme = "hello-friend-ng"
 # Additional configuration
 PygmentsCodeFences = true
 PygmentsStyle = "monokai"
-paginate = 10
 copyright = "Lars Helmuth Probst"
 
 # Hugo configuration

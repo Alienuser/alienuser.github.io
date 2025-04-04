@@ -11,17 +11,24 @@ draft: false
 
 ## Experience
 
-**Advisory Architect** (2023-present, IBM)
-- I am a cloud-native enthusiast fascinated by DevSecOps and modern software engineering practices. Besides hands-on delivery, I lead multiple global delivery projects for global systems across the major hyperscalers. Thereby, skill and people development, as well as software-driven change management, are key aspects of the work I do deliver with passion. 
+**Senior IT-Architect** (2025-present, IBM)
+
+Consulting and implementing cloud architectures with a focus on FinOps, cost optimization, and performance. Migrating and modernizing IT landscapes on AWS, Google Cloud, and Azure. Close collaboration with teams to develop scalable and future-proof solutions for my clients.
+
+**Advisory IT-Architect** (2023-2025, IBM)
+
+Passion for DevSecOps and modern software engineering practices. Leading global deployments on hyperscalers with a focus on automation, scalability, and security. Skill development, team leadership, and software-driven change management are key aspects of my work.
 
 **Senior Cloud Application Consultant, Advisory Architect** (2021-2022, IBM)
-- Being responsible for IT delivery projects from technical site. Consulting and advising clients in various projects on cloud native projects primarily running on Google Cloud, Azure and/or Red Hat OpenShift.
 
-**Lecturer** (2020-present, Duale Hochschule Baden-Württemberg)
-- Since november 2020, I've been a lecturer at the Duale Hochschule Baden-Württemberg in business informatics. 
+Responsible for IT deployment projects from the technical side. Advising and supporting customers in various projects on cloud native projects mainly running on Google Cloud, Azure and/or Red Hat OpenShift.
 
 **Application Consultant: Google Cloud Microservices** (2019-2021, IBM)
-- Several projects as (solution) IT architect in the international area. Co-development of a design library with Cookbook and own components. Larger project as frontend developer with Angular, NgRx and PWA.
+
+Consulting and developing cloud-native applications with a focus on innovation, scalability, and eﬃciency. Supporting IT landscape modernization, adopting new technologies, and optimizing cloud architectures for enterprises.
+
+## Lecturer
+Since 2020 lecturer at the DHBW Stuttgart for Business Informatics.
 
 ## Education
 
@@ -40,10 +47,11 @@ draft: false
 - Information technology, electrical engineering, programming
 
 ## Skills
-**Programming:** Java, Kotlin, Flutter, TypeScript, SCSS / CSS
+**Cloud:** AWS, Azure, OpenShift, Google Cloud
 
-**Tools:** Terraform, Kubernetes, Docker, Git
+**Programming:** Java, Flutter, Angular, Spring Boot, Laravel, SwiftUI
+
+**Tools:** Docker, Kubernetes, Git, Terraform
 
 **Methodology:** Agile, Scrum, DevSecOps
 
-**Cloud:** Google Cloud, Azure, AWS, RedHat OpenShift
