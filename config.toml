@@ -6,7 +6,6 @@ theme = "hello-friend-ng"
 # Additional configuration
 PygmentsCodeFences = true
 PygmentsStyle = "monokai"
-paginate = 10
 copyright = "Lars Helmuth Probst"
 
 # Hugo configuration
@@ -102,19 +101,16 @@ disableHugoGeneratorInject = false
 
 [menu]
     [[menu.main]]
-        identifier = "about"
         name       = "About"
         url        = "about/"
-        weight     = 1
+        weight     = 10
 
     [[menu.main]]
-        identifier = "work"
         name       = "Work"
         url        = "work/"
-        weight     = 2
+        weight     = 20
 
     [[menu.main]]
-        identifier = "certifications"
         name       = "Certifications"
         url        = "certifications/"
-        weight     = 3
+        weight     = 30

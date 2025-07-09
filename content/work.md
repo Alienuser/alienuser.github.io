@@ -6,22 +6,29 @@ draft: false
 
 - 👨‍💻 Some projects are available on [GitHub](https://github.com/Alienuser?tab=repositories)
 - ☁️ My Page is available [here](https://larsprobst.dev)
-- 💬 Ask me about ****cloud stuff****
+- 💬 Ask me about **Cloud**, **FinOps** and **Architecting**
 - 📫 Reach me via [X](https://twitter.com/LarsHProbst), [email](mailto:lars@famprobst.de) or [LinkedIn](https://www.linkedin.com/in/larshprobst)
 
 ## Experience
 
-**Advisory Architect** (2023-present, IBM)
-- I am a cloud-native enthusiast fascinated by DevSecOps and modern software engineering practices. Besides hands-on delivery, I lead multiple global delivery projects for global systems across the major hyperscalers. Thereby, skill and people development, as well as software-driven change management, are key aspects of the work I do deliver with passion. 
+**Senior Advisory Application Architect** (2025-present, IBM)
 
-**Senior Cloud Application Consultant, Advisory Architect** (2021-2022, IBM)
-- Being responsible for IT delivery projects from technical site. Consulting and advising clients in various projects on cloud native projects primarily running on Google Cloud, Azure and/or Red Hat OpenShift.
+Consulting and implementing cloud architectures with a focus on FinOps, cost optimization, and performance. Migrating and modernizing IT landscapes on AWS, Google Cloud, and Azure. Close collaboration with teams to develop scalable and future-proof solutions for my clients.
 
-**Lecturer** (2020-present, Duale Hochschule Baden-Württemberg)
-- Since november 2020, I've been a lecturer at the Duale Hochschule Baden-Württemberg in business informatics. 
+**Advisory Application Architect** (2023-2025, IBM)
 
-**Application Consultant: Google Cloud Microservices** (2019-2021, IBM)
-- Several projects as (solution) IT architect in the international area. Co-development of a design library with Cookbook and own components. Larger project as frontend developer with Angular, NgRx and PWA.
+Passion for DevSecOps and modern software engineering practices. Leading global deployments on hyperscalers with a focus on automation, scalability, and security. Skill development, team leadership, and software-driven change management are key aspects of my work.
+
+**Senior Application Architect** (2021-2022, IBM)
+
+Responsible for IT deployment projects from the technical side. Advising and supporting customers in various projects on cloud native projects mainly running on Google Cloud, Azure and/or Red Hat OpenShift.
+
+**Application Architect** (2019-2021, IBM)
+
+Consulting and developing cloud-native applications with a focus on innovation, scalability, and eﬃciency. Supporting IT landscape modernization, adopting new technologies, and optimizing cloud architectures for enterprises.
+
+## Lecturer
+Since 2020 lecturer at the DHBW Stuttgart for Business Informatics.
 
 ## Education
 
@@ -40,10 +47,10 @@ draft: false
 - Information technology, electrical engineering, programming
 
 ## Skills
-**Programming:** Java, Kotlin, Flutter, TypeScript, SCSS / CSS
+**Cloud:** AWS, Azure, OpenShift, Google Cloud, IBM Cloud
 
-**Tools:** Terraform, Kubernetes, Docker, Git
+**Tools:** Fargate, Docker, Kubernetes, Git, Terraform
 
-**Methodology:** Agile, Scrum, DevSecOps
+**Programming:** Java, Flutter, Angular, Spring Boot, Quarkus
 
-**Cloud:** Google Cloud, Azure, AWS, RedHat OpenShift
+**Methodology:** FinOps, DevSecOps, Agile, SAFe
