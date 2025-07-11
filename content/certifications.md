@@ -1,6 +1,6 @@
 ---
 title: "Certifications"
-date: 2022-09-20T09:38:27+02:00
+date: 2025-07-01T00:00:00+02:00
 draft: false
 ---
 
