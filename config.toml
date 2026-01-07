@@ -54,7 +54,7 @@ disableHugoGeneratorInject = false
     # logoCursorAnimate  = "2s"
 
 [params.footer]
-    trademark = 2025
+    trademark = 2026
     rss = false
     copyright = true
     author = false
